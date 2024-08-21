@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(235, 235, 235);
+  padding: 80px 10px 40px 90px;
+}
+
+div, a {
+  font-family: Arial;
+  color: black;
+  text-decoration: none;
+}
